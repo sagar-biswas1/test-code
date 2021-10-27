@@ -1,0 +1,17 @@
+.selected_title{
+    color: #023047;
+}
+.selected_title span{
+    color: #023047e1;
+}
+.totalPrice{
+    border-top: 1px solid gray;
+}
+.select_box .name,
+.select_box .price
+{
+    color: #023047;
+    font-size: 16px;
+    font-weight: 600;
+}
+

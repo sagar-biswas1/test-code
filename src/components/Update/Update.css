@@ -1,0 +1,21 @@
+.update_wrapper{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.update_values{
+    max-width: 650px;
+    margin: 0 auto;
+}
+.update_values form input{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background: #eee;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.update_values form input[type='submit']{
+    background: orange;
+}
